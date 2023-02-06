@@ -1,0 +1,3 @@
+run = ["java", "-jar halo.jar"]
+language = "java"
+entrypoint = "halo.jar"
