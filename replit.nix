@@ -1,5 +1,5 @@
 { pkgs }: {
 	deps = [
-	pkgs.jre
+    pkgs.jdk17_headless
 	];
 }
